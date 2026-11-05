@@ -30,3 +30,11 @@ User-only skills have `disable-model-invocation: true` and must be explicitly re
 | karpathy-guidelines | `.agents/skills/karpathy-guidelines/SKILL.md` | No |
 | impeccable | `.github/skills/impeccable/SKILL.md` | No |
 | accessibility | `.agents/skills/accessibility/SKILL.md` | No |
+
+### Issue tracker
+
+Track issues and specs in GitHub Issues for `hvkooten/my-contoso-workshop`. Before reading, creating, or updating tickets, read `docs/agents/issue-tracker.md`.
+
+### Domain docs
+
+Use a single-context layout: root `GLOSSARY.md` and `docs/adr/`. Before domain exploration, read `docs/agents/domain.md`.
